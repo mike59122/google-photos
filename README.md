@@ -13,8 +13,8 @@ Cette application permet de synchroniser automatiquement les photos de votre com
 
 ## ⚙️ Technologies
 - PHP (OAuth2 + API Google)
-- Bash (automatisation)
-- Raspberry Pi ou serveur local
+- PHP (automatisation)
+- Raspberry Pi ou serveur local Debian
 
 ## 📄 Politique de confidentialité
 Cette application est auto-hébergée. Aucune donnée n’est transmise à des serveurs tiers. Les identifiants OAuth2 sont stockés localement et chiffrés. Les photos sont uniquement utilisées dans le cadre de votre usage personnel.
