@@ -1,0 +1,8 @@
+{
+  "client_id": "VOTRE_CLIENT_ID",
+  "client_secret": "VOTRE_CLIENT_SECRET",
+  "redirect_uri": "https://jeedom.mondomaine.fr/oauth2callback",
+  "token_file": "token.json",
+  "photo_folder": "/var/www/html/photos_google",
+  "log_file": "/var/log/google_photos_sync.log"
+}
